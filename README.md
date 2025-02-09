@@ -26,7 +26,7 @@
 
 - 📫 How to reach me: [E-mail me](mailto:ritikmgmt@gmail.com)
 - 🔭 I’m currently working on : a CV project involves face tracking and data extraction
-- 🌱 I’m currently learning : Plotly dash , FastAPI
+- 🌱 I’m currently learning : Spring Boot, Microservices
 - 👯 I’m looking to collaborate on : Python projects (DS or CV)
 - 🤔 I’m looking for help with : Contributing to projects
 - ⚡ Fun fact: I like chess and am very active on [Lichess](https://lichess.org/)
