@@ -11,7 +11,7 @@
 
 ### About ME
 
-<p>Hello! I'm a Computer Science Engineering graduate with a passion for web development and a love for coding. With a solid foundation in web technologies and a Python certification under my belt, I enjoy creating efficient and dynamic solutions that enhance user experience.</p>
+<p>Hello! I'm a Computer Science Engineering graduate and currently a Java Developer Intern. With a solid foundation in web technologies and a Python certification under my belt, I enjoy creating efficient and dynamic solutions that enhance user experience.</p>
 
 <p>I have a keen interest in web services and object-oriented programming, and I thrive in collaborative environments where I can contribute to innovative projects. My goal is to continuously learn and grow as a developer while making meaningful contributions to a quality-focused development team.</p>
 
