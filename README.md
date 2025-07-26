@@ -31,7 +31,7 @@
 - 🌱 I’m currently learning : Spring Boot, Microservices
 - 👯 I’m looking to collaborate on : Python ML projects
 - 🤔 I’m looking for help with : Contributing to projects
-- ⚡ I'm very much active on : Codewars (https://www.codewars.com/users/code-404)
+- ⚡ I'm very much active on : [Codewars](https://www.codewars.com/users/code-404)
 
 <br/> 
 
