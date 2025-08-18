@@ -27,7 +27,7 @@
 <br/>  
 
 - 📫 How to reach me: [E-mail me](mailto:ritikmgmt@gmail.com)
-- 🔭 I’m currently working on : Spring Boot app with Stripe integration for payments.
+- 🔭 I’m currently working on : Data Extraction of diffrent fandoms
 - 🌱 I’m currently learning : Spring Boot, Microservices
 - 👯 I’m looking to collaborate on : Python ML projects
 - 🤔 I’m looking for help with : Contributing to projects
